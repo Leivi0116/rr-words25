@@ -445,10 +445,9 @@ export default function TicketForm({ ticket, onSubmit, onBack }: TicketFormProps
                       <span className="font-semibold text-white">How it works:</span>
                     </p>
                     <ol className="text-xs text-muted-foreground space-y-1 ml-4 list-decimal">
-                      <li>Take a screenshot of your payment confirmation</li>
-                      <li>Drag & drop it here or click to upload</li>
-                      <li>We'll automatically store it in our system</li>
-                      <li>The image will be saved in Google Sheets</li>
+                      <li>Take a screenshot of your payment confirmation.</li>
+                      <li>Drag & drop it here or click to upload.</li>
+                      <li>We'll automatically store it in our system.</li>
                     </ol>
                   </div>
                 </div>
