@@ -342,13 +342,7 @@ export default function TicketForm({ ticket, onSubmit, onBack }: TicketFormProps
                       </p>
                     </div>
                     <div className="border border-border rounded p-4 bg-muted/30">
-                      <p className="font-semibold text-foreground mb-2">echo "# rr-words25" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Leivi0116/rr-words25.git
-git push -u origin mainBank Transfer</p>
+                      <p className="font-semibold text-foreground mb-2">Bank Transfer</p>
                       <p className="text-sm text-muted-foreground mb-2">Bank: UnionBank</p>
                       <div className=" opacity-100 m-10">
                           <img src="/ub.png" alt="" className="w-full h-full object-cover " />
