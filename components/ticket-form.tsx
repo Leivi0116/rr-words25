@@ -401,7 +401,7 @@ export default function TicketForm({ ticket, onSubmit, onBack }: TicketFormProps
 
                 {/* Payment Proof Upload */}
                 <div>
-                  <label className="text-xs text-muted-foreground uppercase tracking-wider block mb-2">
+                  <label className="text-xs uppercase tracking-wider block mb-2">
                     📸 Upload Payment Screenshot
                   </label>
                   <p className="text-xs text-muted-foreground mb-3">
