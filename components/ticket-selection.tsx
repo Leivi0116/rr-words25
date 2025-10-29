@@ -23,7 +23,7 @@ const TICKET_DESCRIPTIONS: { [key: string]: string } = {
 }
 
 const TICKET_PRICES: { [key: string]: number } = {
-  REGULAR: 500,
+  REGULAR: 599,
   VIP: 1499,
   "ULTRA VIP": 2200,
 }
